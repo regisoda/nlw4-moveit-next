@@ -2,13 +2,13 @@
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-RÉGIS%20ODA-0CEC0B?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/regisoda/nlw4-moveit?color=0CEC0B&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/regisoda/nlw4-moveit?color=0CEC0B&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/regisoda/nlw4-moveit-next?color=0CEC0B&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/regisoda/nlw4-moveit-next?color=0CEC0B&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-0CEC0B?style=flat-square">
   </a>
-  <a href="https://github.com/regisoda/nlw4-moveit.git/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/regisoda/nlw4-moveit?color=60CEC0B&style=flat-square">
+  <a href="https://github.com/regisoda/nlw4-moveit-next.git/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/regisoda/nlw4-moveit-next?color=60CEC0B&style=flat-square">
   </a>
 </p>
 
@@ -34,6 +34,7 @@ O Move.it é um App que utiliza a técnica de [pomodoro](https://pt.wikipedia.or
 ## Tecnologias
 
 - [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 <br>
@@ -42,7 +43,7 @@ O Move.it é um App que utiliza a técnica de [pomodoro](https://pt.wikipedia.or
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/regisoda/nlw4-moveit.git
+$ git clone https://github.com/regisoda/nlw4-moveit-next.git
 # ou use a opção de download.
 
 # Entre na pasta web com 
@@ -50,6 +51,8 @@ $ cd moveIt
 
 # Instalas as dependências
 $ yarn install
+# ou
+$ npm install
 
 # Rodar aplicação
 $ yarn start
